@@ -1,0 +1,14 @@
+C:\Users\Goshan\Desktop\2 seminar c#\HW\bin\Debug\net7.0\HW.exe
+C:\Users\Goshan\Desktop\2 seminar c#\HW\bin\Debug\net7.0\HW.deps.json
+C:\Users\Goshan\Desktop\2 seminar c#\HW\bin\Debug\net7.0\HW.runtimeconfig.json
+C:\Users\Goshan\Desktop\2 seminar c#\HW\bin\Debug\net7.0\HW.dll
+C:\Users\Goshan\Desktop\2 seminar c#\HW\bin\Debug\net7.0\HW.pdb
+C:\Users\Goshan\Desktop\2 seminar c#\HW\obj\Debug\net7.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goshan\Desktop\2 seminar c#\HW\obj\Debug\net7.0\HW.AssemblyInfoInputs.cache
+C:\Users\Goshan\Desktop\2 seminar c#\HW\obj\Debug\net7.0\HW.AssemblyInfo.cs
+C:\Users\Goshan\Desktop\2 seminar c#\HW\obj\Debug\net7.0\HW.csproj.CoreCompileInputs.cache
+C:\Users\Goshan\Desktop\2 seminar c#\HW\obj\Debug\net7.0\HW.dll
+C:\Users\Goshan\Desktop\2 seminar c#\HW\obj\Debug\net7.0\refint\HW.dll
+C:\Users\Goshan\Desktop\2 seminar c#\HW\obj\Debug\net7.0\HW.pdb
+C:\Users\Goshan\Desktop\2 seminar c#\HW\obj\Debug\net7.0\HW.genruntimeconfig.cache
+C:\Users\Goshan\Desktop\2 seminar c#\HW\obj\Debug\net7.0\ref\HW.dll
